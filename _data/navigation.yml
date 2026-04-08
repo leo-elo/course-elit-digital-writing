@@ -1,29 +1,26 @@
-# Auto-generated navigation
+- type: "header"
+  term: "Summer 2022"
 - slug: "unit-1-writing-writing-machines"
   title: "Unit 1: Writing Writing Machines"
-  type: post
+  type: "post"
   date: "2022-05-27"
   banner: "uploads/sites/10/2022/05/hugoautomaton3.gif"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "unit-2-hypertext-and-interactive-fiction"
   title: "Unit 2: Hypertext and Interactive Fiction"
-  type: post
+  type: "post"
   date: "2022-06-03"
   banner: "uploads/sites/10/2022/06/my-body.gif"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "unit-3-e-poetic-dances"
   title: "Unit 3: E-Poetic Dances"
-  type: post
+  type: "post"
   date: "2022-06-11"
   banner: "uploads/sites/10/2022/06/I-TRIED-540.gif"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "unit-4-the-field-and-its-challenges"
   title: "Unit 4: The Field and its Challenges"
-  type: post
+  type: "post"
   date: "2022-06-17"
   banner: "uploads/sites/10/2022/06/Screen-Shot-2022-06-17-at-5.27.14-PM.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
